@@ -10,7 +10,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int eleccion = -1;
-		System.out.println("Programa Main iniciado correctamente.");
+		System.out.println("Programa Main  iniciado correctamente.");
 		do {
 			mostrarMenu();
 			eleccion = in.nextInt();
